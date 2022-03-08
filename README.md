@@ -1,4 +1,4 @@
-# ecommerce-MERN stack
+# [ecommerce-MERN stack](https://ecommerce-mern-demo.herokuapp.com/)
 A ecommerce application created using MERN stack which has both the ecommerce website and admin panel for the ecommerce website created on it.
 
 Live Links:\
