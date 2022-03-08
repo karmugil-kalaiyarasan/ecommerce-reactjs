@@ -3,8 +3,8 @@ A ecommerce application created using MERN stack which has both the ecommerce we
 
 Live Links:\
 -The Live link for the ecommerce website is [https://ecommerce-mern-demo.herokuapp.com/](https://ecommerce-mern-demo.herokuapp.com/) (Use username:admin and password:admin to login as admin user).\
--The Live link for the ecommerce admin website is [https://ecommerce-mern-admin.herokuapp.com/login](https://ecommerce-mern-admin.herokuapp.com/login) (Use username:admin and password:admin to login as admin user).\
--For Payment use the card number as "4242 4242 4242 4242" and provide any card expiration date greater than current date along with any 3 digit CVV number.
+-For Payment use the card number as "4242 4242 4242 4242" and provide any card expiration date greater than current date along with any 3 digit CVV number.\
+-The Live link for the ecommerce admin website is [https://ecommerce-mern-admin.herokuapp.com/login](https://ecommerce-mern-admin.herokuapp.com/login) (Use username:admin and password:admin to login as admin user).
 
 Front End(Ecommerce Site):\
 -Used styled components instead of plain css.\
