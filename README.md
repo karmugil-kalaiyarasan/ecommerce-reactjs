@@ -2,8 +2,8 @@
 A ecommerce application created using MERN stack which has both the ecommerce website and admin panel for the ecommerce website created on it.
 
 Live Links:\
--The Live link for the ecommerce website is https://ecommerce-mern-demo.herokuapp.com/ (Use username:admin and password:admin to login as admin user).\
--The Live link for the ecommerce admin website is https://ecommerce-mern-admin.herokuapp.com/login (Use username:admin and password:admin to login as admin user).
+-The Live link for the ecommerce website is [https://ecommerce-mern-demo.herokuapp.com/](https://ecommerce-mern-demo.herokuapp.com/) (Use username:admin and password:admin to login as admin user).\
+-The Live link for the ecommerce admin website is https://ecommerce-mern-admin.herokuapp.com/login(https://ecommerce-mern-admin.herokuapp.com/login) (Use username:admin and password:admin to login as admin user).
 
 Front End(Ecommerce Site):\
 -Used styled components instead of plain css.\
